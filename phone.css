@@ -1,0 +1,68 @@
+/* main contant section */
+#main-contant  {
+    margin: 95px -3px 17px 3px;
+    padding: 27px;
+  }
+
+.heading {
+    margin-top:12px ;
+
+}
+/* navigation section */
+#navbar{
+flex-direction: column;
+margin-left:-4% ;
+}
+#navbar ul{
+    
+    margin-left:10% ;
+    }
+    .logo img{
+        margin-left:10% ;
+    }
+.item{
+    margin:-7px ;
+    padding: 2px;
+}
+/* services section */
+#services{
+    flex-direction: column;
+}
+#services .box {
+  margin-bottom: 100px;
+
+}
+.box img{
+    width: 219px;
+    
+}
+/* client section */
+.client{
+
+}
+#contact::before{
+    margin-top: 12px;
+
+}
+
+/* #contact section */
+#contact{
+
+}
+/* utility section */
+h1.primary{
+    margin: 90px;
+    font-size: 29px;
+}
+h1.primary2{
+    margin: 85px;
+}
+body{
+    background-color: rgb(122, 110, 110);
+}
+.secondary{
+    font-size: 21px;
+}
+.center{
+    font-size: 12px;
+}
